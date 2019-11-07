@@ -5,7 +5,7 @@ interface MovingIcons
 {
   const ARCHIVE_MOV = 'fa-archive';
   const BOX_OPEN = 'fa-box-open';
-  const COUCH = 'fa-couch';
+  const COUCH_MOV = 'fa-couch';
   const DOLLY_MOV = 'fa-dolly';
   const PEOPLE_CARRY = 'fa-people-carry';
   const ROUTE_MOV = 'fa-route';

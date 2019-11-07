@@ -4,11 +4,11 @@ namespace Fortifi\FontAwesome\Interfaces\Icons;
 interface StatusIcons
 {
   const BAN_STA = 'fa-ban';
-  const BATTERY_EMPTY = 'fa-battery-empty';
-  const BATTERY_FULL = 'fa-battery-full';
-  const BATTERY_HALF = 'fa-battery-half';
-  const BATTERY_QUARTER = 'fa-battery-quarter';
-  const BATTERY_THREE_QUARTERS = 'fa-battery-three-quarters';
+  const BATTERY_EMPTY_STA = 'fa-battery-empty';
+  const BATTERY_FULL_STA = 'fa-battery-full';
+  const BATTERY_HALF_STA = 'fa-battery-half';
+  const BATTERY_QUARTER_STA = 'fa-battery-quarter';
+  const BATTERY_THREE_QUARTERS_STA = 'fa-battery-three-quarters';
   const BELL_STA = 'fa-bell';
   const BELL_SLASH_STA = 'fa-bell-slash';
   const CALENDAR_STA = 'fa-calendar';
@@ -53,6 +53,7 @@ interface StatusIcons
   const MINUS_SQUARE_STA = 'fa-minus-square';
   const PARKING_STA = 'fa-parking';
   const PHONE_STA = 'fa-phone';
+  const PHONE_ALT_STA = 'fa-phone-alt';
   const PHONE_SLASH_STA = 'fa-phone-slash';
   const PLUS_STA = 'fa-plus';
   const PLUS_CIRCLE_STA = 'fa-plus-circle';

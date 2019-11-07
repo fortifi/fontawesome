@@ -5,7 +5,7 @@ interface CodeIcons
 {
   const ARCHIVE_COD = 'fa-archive';
   const BARCODE = 'fa-barcode';
-  const BATH = 'fa-bath';
+  const BATH_COD = 'fa-bath';
   const BUG = 'fa-bug';
   const CODE = 'fa-code';
   const CODE_BRANCH = 'fa-code-branch';
@@ -18,6 +18,7 @@ interface CodeIcons
   const FOLDER_COD = 'fa-folder';
   const FOLDER_OPEN_COD = 'fa-folder-open';
   const KEYBOARD = 'fa-keyboard';
+  const LAPTOP_CODE = 'fa-laptop-code';
   const MICROCHIP = 'fa-microchip';
   const PROJECT_DIAGRAM_COD = 'fa-project-diagram';
   const QRCODE = 'fa-qrcode';

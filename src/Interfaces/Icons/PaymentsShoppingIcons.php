@@ -26,7 +26,7 @@ interface PaymentsShoppingIcons
   const CC_STRIPE = 'fa-cc-stripe';
   const CC_VISA = 'fa-cc-visa';
   const CERTIFICATE_PSI = 'fa-certificate';
-  const CREDIT_CARD = 'fa-credit-card';
+  const CREDIT_CARD_PSI = 'fa-credit-card';
   const ETHEREUM_PSI = 'fa-ethereum';
   const GEM_PSI = 'fa-gem';
   const GIFT_PSI = 'fa-gift';
@@ -37,6 +37,7 @@ interface PaymentsShoppingIcons
   const MONEY_CHECK_PSI = 'fa-money-check';
   const MONEY_CHECK_ALT_PSI = 'fa-money-check-alt';
   const PAYPAL = 'fa-paypal';
+  const RECEIPT_PSI = 'fa-receipt';
   const SHOPPING_BAG_PSI = 'fa-shopping-bag';
   const SHOPPING_BASKET_PSI = 'fa-shopping-basket';
   const SHOPPING_CART_PSI = 'fa-shopping-cart';

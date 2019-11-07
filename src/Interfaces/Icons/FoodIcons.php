@@ -11,13 +11,13 @@ interface FoodIcons
   const CARROT = 'fa-carrot';
   const CHEESE = 'fa-cheese';
   const CLOUD_MEATBALL = 'fa-cloud-meatball';
-  const COOKIE = 'fa-cookie';
+  const COOKIE_FOO = 'fa-cookie';
   const DRUMSTICK_BITE_FOO = 'fa-drumstick-bite';
   const EGG = 'fa-egg';
   const FISH_FOO = 'fa-fish';
   const HAMBURGER = 'fa-hamburger';
   const HOTDOG = 'fa-hotdog';
-  const ICE_CREAM = 'fa-ice-cream';
+  const ICE_CREAM_FOO = 'fa-ice-cream';
   const LEMON = 'fa-lemon';
   const PEPPER_HOT = 'fa-pepper-hot';
   const PIZZA_SLICE = 'fa-pizza-slice';

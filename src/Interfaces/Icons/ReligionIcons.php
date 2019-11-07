@@ -8,7 +8,7 @@ interface ReligionIcons
   const BIBLE = 'fa-bible';
   const CHURCH_REL = 'fa-church';
   const CROSS = 'fa-cross';
-  const DHARMACHAKRA = 'fa-dharmachakra';
+  const DHARMACHAKRA_REL = 'fa-dharmachakra';
   const DOVE_REL = 'fa-dove';
   const GOPURAM_REL = 'fa-gopuram';
   const HAMSA = 'fa-hamsa';
@@ -16,7 +16,7 @@ interface ReligionIcons
   const HAYKAL = 'fa-haykal';
   const JEDI = 'fa-jedi';
   const JOURNAL_WHILLS = 'fa-journal-whills';
-  const KAABA = 'fa-kaaba';
+  const KAABA_REL = 'fa-kaaba';
   const KHANDA = 'fa-khanda';
   const MENORAH = 'fa-menorah';
   const MOSQUE_REL = 'fa-mosque';

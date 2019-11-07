@@ -11,17 +11,17 @@ interface WeatherIcons
   const CLOUD_RAIN = 'fa-cloud-rain';
   const CLOUD_SHOWERS_HEAVY = 'fa-cloud-showers-heavy';
   const CLOUD_SUN_WEA = 'fa-cloud-sun';
-  const CLOUD_SUN_RAIN = 'fa-cloud-sun-rain';
-  const METEOR = 'fa-meteor';
+  const CLOUD_SUN_RAIN_WEA = 'fa-cloud-sun-rain';
+  const METEOR_WEA = 'fa-meteor';
   const MOON_WEA = 'fa-moon';
   const POO_STORM = 'fa-poo-storm';
-  const RAINBOW = 'fa-rainbow';
+  const RAINBOW_WEA = 'fa-rainbow';
   const SMOG = 'fa-smog';
   const SNOWFLAKE_WEA = 'fa-snowflake';
   const SUN_WEA = 'fa-sun';
-  const TEMPERATURE_HIGH = 'fa-temperature-high';
-  const TEMPERATURE_LOW = 'fa-temperature-low';
+  const TEMPERATURE_HIGH_WEA = 'fa-temperature-high';
+  const TEMPERATURE_LOW_WEA = 'fa-temperature-low';
   const UMBRELLA_WEA = 'fa-umbrella';
-  const WATER = 'fa-water';
+  const WATER_WEA = 'fa-water';
   const WIND_WEA = 'fa-wind';
 }

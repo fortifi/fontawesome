@@ -7,7 +7,7 @@ interface HealthIcons
   const AMBULANCE_HEA = 'fa-ambulance';
   const H_SQUARE = 'fa-h-square';
   const HEART_HEA = 'fa-heart';
-  const HEARTBEAT = 'fa-heartbeat';
+  const HEARTBEAT_HEA = 'fa-heartbeat';
   const HOSPITAL_HEA = 'fa-hospital';
   const MEDKIT = 'fa-medkit';
   const PLUS_SQUARE = 'fa-plus-square';
