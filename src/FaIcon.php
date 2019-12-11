@@ -886,4 +886,13 @@ class FaIcon extends FaEnum implements FaIcons, ISafeHtmlProducer
     $this->_setStyle(FaStyle::LIGHT);
     return $this;
   }
+
+  /**
+   * @return $this
+   */
+  public function styleDuotone()
+  {
+    $this->_setStyle(FaStyle::DUOTONE);
+    return $this;
+  }
 }
