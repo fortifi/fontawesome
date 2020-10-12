@@ -85,7 +85,7 @@ class FaIcon extends FaEnum implements FaIcons, ISafeHtmlProducer
   }
 
   /**
-   * @param FaIcon[] ...$icons
+   * @param FaIcon ...$icons
    *
    * @return Span
    */
@@ -582,7 +582,7 @@ class FaIcon extends FaEnum implements FaIcons, ISafeHtmlProducer
   }
 
   /**
-   * @param array ...$class
+   * @param string ...$class
    *
    * @return $this
    */
@@ -593,7 +593,7 @@ class FaIcon extends FaEnum implements FaIcons, ISafeHtmlProducer
   }
 
   /**
-   * @param array ...$class
+   * @param string ...$class
    *
    * @return $this
    */
